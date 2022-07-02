@@ -4,9 +4,9 @@
 /**
  * main - Entry point
  *
- * Description: the programs assigns a random value to the variable
+ * Description: program will assign a random number to the variable
  *
- * Return: Always 0 (Success)
+ * Return 0 (Success)
  */
 int main(void)
 {
@@ -22,9 +22,9 @@ int main(void)
 	{
 		printf("%d is zero\n", n);
 	}
-	else if (n < 0)
-	{
+	else
+	{	
 		printf("%d is negative\n", n);
-	}	
+	}
 	return (0);
 }
