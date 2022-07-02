@@ -1,9 +1,8 @@
 #include <stdio.h>
-
 /**
  * main - Entry point
  *
- * Description: prints "The sise of various types on the computer"
+ * Description: prints the sise of various types on the computer
  *
  * Return: Always 0 (Success)
  */
