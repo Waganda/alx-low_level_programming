@@ -1,4 +1,4 @@
-#include <main.h>
+#include "main.h"
 /*calling the main.h file which contain function prototype **/
 
 
