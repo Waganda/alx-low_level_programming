@@ -1,4 +1,7 @@
 #include <main.h>
+/*calling the main.h file which contain function prototype **/
+
+
 /**
  * main- Entry point
  *
